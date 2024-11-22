@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harshpreet Singh
 - 👀 I’m working as a Rust developer on ICP and Radix Blockchain
-- 🌱 I’m currently learning about Solana 
+- 🌱 I’m currently building on Solana 
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me harshpreetweb3@gmail.com
   
